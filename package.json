@@ -1,0 +1,22 @@
+{
+  "name": "sparse",
+  "description": "Insanely simple text parser for Node.js",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "async": "*"
+  },
+  "homepage": "https://github.com/NateFerrero/sparse",
+  "author": "Nate Ferrero (http://nateferrero.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NateFerrero/sparse"
+  },
+  "main": "./index.js",
+  "licenses": [
+    {
+      "type": "MIT +no-false-attribs",
+      "url": "http://github.com/isaacs/npm/raw/master/LICENSE"
+    }
+  ]
+}
