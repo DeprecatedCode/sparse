@@ -52,7 +52,7 @@ var grammar = {
     /**
      * A single & will just drop the matched characters
      */
-    '&'         : 'skip this if found'
+    '&'                 : 'skip this if found'
   }
 
   /**
@@ -64,7 +64,7 @@ var grammar = {
      * An & followed by a token name will drop the characters
      * and then switch to that token's context
      */
-    '&token-name'   : /./
+    '&token-name'       : /./
   }
 }
 ```
