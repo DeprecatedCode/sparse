@@ -1,4 +1,4 @@
-sparse
+Sparse
 ======
 
 Insanely Simple Text Parser for Node.js
