@@ -63,6 +63,7 @@ var grammar = {
 		/**
 		 * An & followed by a token name will drop the characters
 		 * and then switch to that token's context
+		 */
 		'&token-name'		: /./
 	}
 }
